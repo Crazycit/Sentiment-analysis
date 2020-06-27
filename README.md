@@ -1,7 +1,7 @@
 # Sentiment-analysis
 
 
-Machine Learning model made to preform Sentiment Analysis. 
+The machine Learning model is made to perform Sentiment Analysis. 
 
 
-The model can determine if a given statement is 'Positive' OR 'Negative'.
+The model can determine if a given statement is 'Positive' Or 'Negative'.
